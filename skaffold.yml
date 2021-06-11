@@ -33,3 +33,5 @@ build:
         manual:
           - src: 'src/**/*.ts'
             dest: .
+          - src: 'src/**/*.js'
+            dest: .
